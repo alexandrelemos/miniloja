@@ -4,7 +4,7 @@ return [
     'db' => [
         'host' => 'localhost',
         'name' => 'miniloja',
-        'user' => 'miniloja_app',
-        'pass' => 'Teste123!',
+        'user' => 'al',
+        'pass' => '1qaz',
     ]
 ];
